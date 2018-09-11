@@ -1,0 +1,12 @@
+<additional>
+
+	<poly id="1-1" type="building" color="160,160,160" fill="1" layer="-1.00" shape="0,0 15,0 15,15 0,15"/>
+
+	<poly id="1-2" type="building" color="160,160,160" fill="1" layer="-1.00" shape="295,0 310,0 310,15 295,15"/>
+
+	<poly id="1-3" type="building" color="160,160,160" fill="1" layer="-1.00" shape="0,295 15,295 15,310 0,310"/>
+
+	<poly id="2-1" type="building" color="160,160,160" fill="1" layer="-1.00" shape="295,295 310,295 310,310 295,310"/>
+
+
+</additional>
